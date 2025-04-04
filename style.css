@@ -243,9 +243,10 @@ html {
 .page3 {
   /* background-color: #; */
   width: 100%;
-  min-height: 185vh;
+  height: 220vh;
   position: relative;
   z-index: 9;
+  margin-bottom: 5rem;
   padding-top: 4vw;
 }
 
@@ -315,7 +316,6 @@ html {
 .page3-part3 {
   position: relative;
   width: fit-content;
-  bottom: 6vw;
   /* background-color: bisque; */
   left: 64vw;
 }
@@ -353,7 +353,7 @@ html {
   /* background-color: #edbfff; */
   margin: auto 0vw;
   position: relative;
-  min-height: 110vh;
+  min-height: 140vh;
   padding: 2vw;
   width: 100%;
   z-index: 9;

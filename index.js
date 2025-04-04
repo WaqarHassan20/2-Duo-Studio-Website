@@ -119,7 +119,7 @@ const timeline3 = gsap.timeline({
     scroller: ".main",
     // markers: true,
     start: "top -380%",
-    end: "top -400%",
+    end: "top -550%",
     scrub: 3,
   },
 });
